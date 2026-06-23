@@ -56,6 +56,6 @@ Female passengers had significantly higher survival rates than male passengers.
 First-class passengers had better chances of survival compared to second and third-class passengers.
 Children showed higher survival rates than other age groups.
 Senior passengers had the lowest survival rate.
-✅ Conclusion
+                                                 ✅ Conclusion
 
 The analysis demonstrates that gender, passenger class, and age played a major role in determining survival during the Titanic disaster. Data visualization helped uncover meaningful patterns and provided valuable insights into passenger survival behavior.
